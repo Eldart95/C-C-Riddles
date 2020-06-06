@@ -1,0 +1,6 @@
+//Riddle 1 Solution
+The answer is, it depends.
+first, we decalre on int a, than we use scanf to scan an int.
+than we assign the result of scanf to b.
+scanf returns the number of inputs it read, in our case - 1.
+so, if a is 1, than the result will be true, else - false.

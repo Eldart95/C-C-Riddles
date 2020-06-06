@@ -5,6 +5,7 @@ int main(){
 	scanf("%d",&a);
 	
 	int b=scanf("%d",&b);
-	
+	//true or false ?
 	return (a==b);
+	
 }
